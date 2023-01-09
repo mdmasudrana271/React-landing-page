@@ -18,7 +18,7 @@ function App() {
         <div className='mx-7 md:mx-0 w-2/3'>
           <h3 className='text-md mb-3 font-bold ml-[-20px]'>C.R.I PUMPS WINS THE NATIONAL ENERGY CONSERVATION AWARD 2018 for the 4th time</h3>
           <li className='text-sm font-bold'>C.R.I.'s energy efficient product are well recognized by various Government Institutions. as trustworthy products for various <br /> projects across the globe to save energy.</li>
-          <li className='text-sm font-bold'>C.R.I is the highest contributor in the country for projects of EESL(Energy Efficiency Services Limited) to replace the <br /> old inefficient pumps with 5 star rated energy efficient smart pumps with lot enabled control panel.</li>
+          <li className='text-sm font-bold'>C.R.I is the highest contributor in the country for projects of EESL(Energy Efficiency Services Limited) to replace the old inefficient pumps with 5 star rated energy efficient smart pumps with lot enabled control panel.</li>
           <img src={banner2} className="my-5" alt="" />
           <p className='font-semibold'>Government of india has awarded the <strong>"NATIONAL Energy Conservation Award 2018"</strong>. Mr. G. Selvaraj. joint Managing Director of C.R.I. Group received the award from Smt. Sumitra Mahajan, Speaker of Lok Sabha & Shri Raj Kumar Singh. Honorable <br /> Minister of State.</p>
         </div>
